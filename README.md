@@ -4,7 +4,8 @@ Welcome to my implementation of the VectorShift Frontend Assessment. As a passio
 
 ## 📸 Preview
 
-Y-Combinator Task <img width="1599" height="743" alt="WhatsApp Image 2026-06-27 at 12 33 30 PM" src="https://github.com/user-attachments/assets/5be05c44-b839-4884-bcac-123b79019dd8" />
+Y-Combinator Task <img width="1599" height="743" alt="WhatsApp Image 2026-06-27 at 12 33 30 PM" src="https://github.com/user-attachments/assets/c5531249-bf46-4107-9bdb-c007ed350b30" />
+
 
 
 ## ✨ Key Achievements & Implementations
